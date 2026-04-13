@@ -2,29 +2,21 @@
 
 My [Exercism](https://exercism.org/) solutions.
 
-## 🚀 Quick Start
+## 📁 Structure
 
-### Step 1: Clone the repo
+**Naming:** Organized by track and exercise name
 
-```bash
-git clone https://github.com/felixnagele/exercism.git
-cd exercism
-```
+**Content:** Completed and tested solutions.
 
-### One-liner setup
-
-```bash
-git clone https://github.com/felixnagele/exercism.git && cd exercism
-```
+**Workflow:** Progress tracking through individual iterations and track completion.
 
 ## 📖 Usage
 
-Since the official Exercism test suites are not included, you can browse the solutions to see how I solved them.
+Since the official Exercism test suites are not included, you can browse the solutions here to see the logic.
 
-Folder structure:
-
+**Folder structure:**
 `[solutions]/[language]/[exercise]/`
 
-## Contributing, License & Support
+## 📝 Note
 
-See [Community Profile](https://github.com/felixnagele/exercism/community) for guidelines, license, and support.
+This is a personal repository for tracking my progress and archiving my solutions. It is not intended for external contributions.
